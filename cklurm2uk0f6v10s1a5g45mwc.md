@@ -1,0 +1,17 @@
+## Front - End Development: A Beginner's Perspective
+
+###  What does it mean?
+
+Being a beginner in computer science is quite a challenging job for everyone. Now what exactly comes with these challenges, well it is the knowledge and skills for different languages and technologies you acquire to use them in your future projects. People head towards different paths and explore various areas but then everyone at a point comes across a time where you decide what to use, where to use, how to use, and why to use a particular something. People start with different languages like C, C++, Java, or Python and keep on developing their skills. 
+ 
+
+But, the thing I am talking about here is **"Web Development"**. This field is one of the major and one of the biggest fields that people opt for. The web development domain includes two major fields which are, the **"Front-End"** and the **"Back-End"**. These two sides are quite different from each other yet connected very directly to each other. In this post, I won't be talking about Back-End Development as it includes all the server and database sides of web development which can be discussed later.
+Now coming to the main point of discussion here, **Front-End web development**. This is comparatively an easier way for a beginner to slid into the world of development. This has been attracting a lot of people for a long time because the output of learning helps you create a visually pleasing learning experience for you. This learning includes getting started with programming languages like **HTML**(Hypertext Markup Language), **CSS**(Cascading Style Sheets), and **Javascript**. Now before getting into these languages let us talk about what exactly is Front-End.
+
+The front-end is basically what you see on a website. In this, people ensure that how a website looks on the outer side. People get to handle different stuff like styles, fonts, shapes, buttons, texts, images, etc. The art of designing a website in the way how it looks, where all the contents will be, and how interactive the site will be is also something to look out for in a website because one of the main roles of front-end developers is to make a website visually appealing to the users. The HTML is used to form the structure of your website, the CSS is used to style out your website and the Javascript is used to add functionality to your website contents. Further, there are many more things like different CSS and Javascript frameworks like React, Angular, Bootstrap, etc which adds various specialty in your codes making them easier to understand, concise, and even adds other enhanced features to your website too. Another thing about this domain is that it involves making your website responsive which is making it fully functional on devices of all screen sizes which makes the work quite interesting.
+
+In the end, I would say the front-end is all about creating an interface with which the user interacts, making it responsive for all devices, and laying out the most optimized structure of a website. The scope of this domain is increasing every day with the addition of new things to learn here. So, I would definitely recommend exploring the front-end web development domain and connect other technologies with this to build great projects.
+
+This is my first post and I will be writing more about various topics in the future. 
+**Stay tuned!**
+Let me know in the comments what you think about this article.
